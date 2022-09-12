@@ -1,0 +1,3 @@
+ideally this gives a framework that allows you to paste in 
+code to the main file, then any python written can be easily
+installed into a cli and bin path shit
